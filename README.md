@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Portfolio
 
-built with React, styled-components,
+built with React, styled-components
 
 ### Code Splitting
 
