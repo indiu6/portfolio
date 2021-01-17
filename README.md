@@ -14,4 +14,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 ### Deployment
 
+#### npm run deploy
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
